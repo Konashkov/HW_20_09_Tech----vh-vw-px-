@@ -1,0 +1,13 @@
+.biggest{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: grey;
+    justify-content: space-between;
+}
+.two,
+.one{
+    width: 30%;
+    height: 50%;
+    background-color: red;
+}
